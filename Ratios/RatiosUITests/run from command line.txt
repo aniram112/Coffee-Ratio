@@ -4,5 +4,5 @@ run uitests:
 /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild test -project Ratios.xcodeproj -scheme RatiosUITests -destination "platform=iOS Simulator,id=21765E8F-62DC-4F02-8A12-01D611C128D2,OS=14.5 "
 
 
-list of devises:
+list of deviсes:
 xcrun xctrace list devices
